@@ -1,0 +1,10 @@
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe.config
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.exe
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\KalkulatorSederhana.pdb
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.AssemblyReference.cache
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Form1.resources
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.Properties.Resources.resources
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.GenerateResource.cache
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.csproj.CoreCompileInputs.cache
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.exe
+D:\Coding\C#\FormApps\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\KalkulatorSederhana.pdb
